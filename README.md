@@ -44,16 +44,24 @@ DAX formulas were used to create calculated fields for Total Sales, Sales YTD, a
 
 
 Real-Time-Sales-Dashboard/
+
 │
 ├── Data/
+
 │   ├── sales_data.xlsx
+
 │   └── product_data.csv
+
 │
 ├── Dashboard/
+
 │   ├── RealTime_Sales_Dashboard.pbix
+
 │
 ├── Images/
+
 │   └── dashboard_screenshot.png
+
 │
 └── README.md
 
@@ -79,4 +87,4 @@ Improved understanding of data visualization best practices
 👤 Balaji Kallagunta
 📧 kallaguntabalaji143@gmail.com
 🔗[Kallagunta Balaji](https://www.linkedin.com/in/kallagunta-balaji-261b2a298)
-💻 GitHub Repository
+💻 [kallaguntabalaji12](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
