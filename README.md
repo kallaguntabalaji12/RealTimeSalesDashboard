@@ -49,17 +49,14 @@ Real-Time-Sales-Dashboard/
 ├── Data/
 
 │   ├── sales_data.xlsx
-
 │   └── product_data.csv
 
 │
 ├── Dashboard/
-
 │   ├── RealTime_Sales_Dashboard.pbix
 
 │
 ├── Images/
-
 │   └── dashboard_screenshot.png
 
 │
