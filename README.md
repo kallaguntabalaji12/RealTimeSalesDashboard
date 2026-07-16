@@ -94,5 +94,5 @@ Improved understanding of data visualization best practices
 📫 Contact
 👤 Balaji Kallagunta
 📧 kallaguntabalaji143@gmail.com
-🔗[Kallagunta Balaji](https://www.linkedin.com/in/kallagunta-balaji-261b2a298)
+🔗[Kallagunta Balaji](https://www.linkedin.com/in/balajikallagunta4425)
 💻 [kallaguntabalaji12](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
