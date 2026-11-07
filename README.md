@@ -1,98 +1,136 @@
-# REAL-TIME-SALES-DASHBOARD
-📊 Real-Time Sales Dashboard
-Created by Balaji Kallagunta.
+# Real-Time Sales Dashboard
 
-A Power BI dashboard to visualize and monitor real-time sales performance across regions and product lines.
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Real%20Time%20Analytics-ffb000?style=for-the-badge&logo=microsoftpowerbi" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Status-Professional%20Dashboard-0a7ea4?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Business-Intelligence-0f172a?style=for-the-badge" alt="Business Intelligence" />
+</p>
 
+A polished business intelligence dashboard designed to monitor sales performance in real time and highlight growth opportunities across product lines, countries, and periods.
 
-🚀 Project Overview:
+## Executive Summary
 
-This project showcases a Real-Time Sales Dashboard built in Power BI to analyze company-wide sales data. The dashboard provides valuable insights into total sales, sales by product line, monthly trends, and country-wise performance, empowering stakeholders to make informed business decisions.
+This project provides a modern, decision-oriented view of sales performance using Power BI. It combines core revenue metrics, product trends, regional performance, and time-based analysis to help stakeholders evaluate business health and identify where action is needed.
 
+The dashboard is built for practical business use, with an emphasis on clarity, accessibility, and quick insight discovery.
 
-🧠 Key Insights:
+## Business Value
 
-Total Sales: 10.03M
-Total Quantity: 99K
-Sales YTD: 1.79M
-Top Performing Product Line: Classic Cars (39.07% of total sales)
-Top Performing Country: USA
+- Track revenue momentum at a glance
+- Identify top-performing product lines
+- Compare sales across countries and regions
+- Analyze monthly and year-to-date performance
+- Support strategic planning with data-backed insights
+- Help teams make faster commercial decisions
 
+## Key Performance Highlights
 
-⚙️ Tools & Technologies Used:
+- Total Sales: 10.03M
+- Total Quantity: 99K
+- Sales YTD: 1.79M
+- Top Product Line: Classic Cars (39.07% of total sales)
+- Top Country: USA
 
-Power BI Desktop – Data modeling and visualization
-Microsoft Excel – Data source and preprocessing
-DAX (Data Analysis Expressions) – Custom measures and KPIs
-Power Query – Data cleaning and transformation
-SQL (optional) – For data extraction and integration
+## Dashboard Features
 
+- KPI cards for key measures
+- Sales by product line analysis
+- Monthly sales trend monitoring
+- Country-wise performance comparison
+- Interactive filters for date, country, and product category
+- Clean and executive-friendly visual design
+- Responsive reporting layout
 
-📈 Dashboard Features:
+## Technical Stack
 
-✅ KPI Cards showing Total Sales, Quantity, and YTD Sales
-✅ Pie Chart for Sales by Product Line
-✅ Bar Chart for Sales by Month
-✅ Horizontal Bar Chart for Sales by Country
-✅ Interactive Filters for Country, Date, and Product Line
-✅ Responsive and user-friendly visual design
+- Power BI Desktop
+- Microsoft Excel
+- Power Query
+- DAX (Data Analysis Expressions)
+- Business intelligence modeling
+- Data visualization and storytelling
 
+## Data Model
 
-🧩 Data Model:
+The dashboard is structured around core dimensions and fact tables, including:
 
-The data model integrates key dimensions such as:
-Customer
-Product
-Sales
-Geography (Country, Region)
-Date (Month, Year)
-DAX formulas were used to create calculated fields for Total Sales, Sales YTD, and Monthly Trends.
+- Customer
+- Product
+- Sales
+- Geography
+- Date
 
+Calculated measures and DAX logic were used to generate metrics such as:
 
-Real-Time-Sales-Dashboard/
+- Total Sales
+- Sales YTD
+- Monthly trends
+- Comparative performance indicators
 
-│
-├── Data/
+## Repository Structure
 
-│   ├── sales_data.xlsx
+```text
+RealTimeSalesDashboard/
+├── README.md
+├── docs/
+│   └── DASHBOARD_OVERVIEW.md
+├── .gitignore
+├── realtimesalesdashboard.pbix
+└── assets/
+    └── dashboard-preview.png
+```
 
-│   └── product_data.csv
+## Dashboard Preview
 
-│
-├── Dashboard/
+The dashboard is designed to present critical sales snapshots in a compact, executive-ready format. It is intended to help users move from raw data to actionable business decisions quickly.
 
-│   ├── RealTime_Sales_Dashboard.pbix
+## Use Cases
 
-│
-├── Images/
+- Sales leadership review
+- Monthly performance reporting
+- Regional sales comparisons
+- Product mix evaluation
+- Business forecasting support
+- Executive presentation material
 
-│   └── dashboard_screenshot.png
+## Project Goals
 
-│
-└── README.md
+This repository demonstrates how a standard sales dataset can be transformed into a polished commercial reporting experience. The focus is not just visualization, but strategic clarity and decision support.
 
+## Getting Started
 
-📊 Preview:
+1. Open the Power BI file: `realtimesalesdashboard.pbix`
+2. Refresh the dataset if needed
+3. Review the KPIs and visuals
+4. Use slicers to filter by country, time, or product line
+5. Export or present insights for stakeholders
 
-Below is a snapshot of the dashboard layout:
-Metrics Overview
-Total Sales, Quantity, YTD Sales
-Visuals
-Sales by Product Line (Pie Chart)
-Sales by Month (Bar Chart)
-Sales by Country (Horizontal Chart)
+## Business Insights Summary
 
+The dashboard reveals a strong concentration of sales in the Classic Cars segment and highlights the USA as the leading market. Such insights help teams prioritize marketing, inventory, and sales strategy in the most impactful areas.
 
-💡 Learning Outcomes:
+## Roadmap
 
-Hands-on experience in Power BI dashboard development
-Applied DAX functions for advanced calculations
-Designed interactive visual reports for business insights
-Improved understanding of data visualization best practices
+- Improve dashboard branding and visual hierarchy
+- Add deeper drill-through reports
+- Include forecast and target comparisons
+- Add executive summary slides for presentation decks
+- Expand with multi-page performance analysis
 
+## Author
 
-📫 Contact
-👤 Balaji Kallagunta
-📧 kallaguntabalaji143@gmail.com
-🔗[Kallagunta Balaji](https://www.linkedin.com/in/balajikallagunta4425)
-💻 [kallaguntabalaji12](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
+Balaji Kallagunta
+
+## Contact
+
+- Email: kallaguntabalaji143@gmail.com
+- LinkedIn: https://www.linkedin.com/in/balajikallagunta4425
+- Portfolio: https://kallaguntabalaji12.github.io/RealTimeSalesDashboard
+
+## License
+
+This project is intended for portfolio and business intelligence demonstration purposes.
+
+---
+
+Built for modern sales reporting and professional business insight delivery.
